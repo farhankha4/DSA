@@ -21,6 +21,6 @@ public:
             result.push_back(intervals[i]);
             i++;
         }
-        return results;
+        return result;
     }
 };
